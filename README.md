@@ -1,2 +1,2 @@
-# Tag component
+# Pagination component
 Implemented on ReactJS
